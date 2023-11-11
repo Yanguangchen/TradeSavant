@@ -1,24 +1,23 @@
 .topnav {
-	margin-bottom: 0%;
+  margin-bottom: 0%;
 }
-.navlinks {	
-}
+
 h1 {
-	color: white;
-	background:  #131720;
-	text-align: center;
-	font-size: 250%;
-	animation: topnavcolor 5s infinite;
-	padding-top: 3%;
-	padding-bottom: 3%;
-	margin: 0;
+  color: white;
+  background: #131720;
+  text-align: center;
+  font-size: 250%;
+  animation: topnavcolor 5s infinite;
+  padding-top: 3%;
+  padding-bottom: 3%;
+  margin: 0;
 }
 
 nav {
-	display: flex;
-	justify-content: center;
-	width: 100%;
-	background:  #131720;
+  display: flex;
+  justify-content: center;
+  width: 100%;
+  background: #131720;
 }
 
 .navbar {
